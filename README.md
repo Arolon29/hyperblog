@@ -10,5 +10,6 @@ Un blog que relata un poco de vida
 * El verdadero amor por las buenas practicas
 * Truscos muy locos del profesor
 * Las personalidades mùltples
+* Incluye ejemplos en Windows, linux y Mac
 
 y como un amable recordatorio: **Este readme.md es un chiste**. Diseñado para el ejemplo. si llegas
