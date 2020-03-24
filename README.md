@@ -11,5 +11,6 @@ Un blog que relata un poco de vida
 * Truscos muy locos del profesor
 * Las personalidades mùltples
 * Incluye ejemplos en Windows, linux y Mac
+* Disponible para todas la edades
 
 y como un amable recordatorio: **Este readme.md es un chiste**. Diseñado para el ejemplo. si llegas
